@@ -1,0 +1,49 @@
+p{
+	padding: 50px 30px 50px ;
+ }
+body { backgroud-color: lightyellow;}
+a.nodec { text-decoration: none;}
+a:hover { color:red;}
+li { color: blue;}
+h3 em { color: green;}
+
+.span {
+	border: 2px solid purple;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-left: 150px;
+	margin-bottom:50px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px	;
+	width: 30%;
+		}
+		
+.span2 {
+	border: 2px solid purple;
+	margin-top: 10px;
+	margin-right: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	float: right;
+}		
+table{
+	float: right;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
+}
+
+/*<div style="height: 100% ;border: 3px solid orange;
+				background-image: url(Witcher.jpg);
+				margin-top: 500px;">
+		<image src = "icon.jpg"  width = 100px style = "
+		 margin-left: 50px";>
+
+	</div>			
